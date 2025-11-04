@@ -1,0 +1,329 @@
+Initializing the switch
+r-0
+r-1
+rr-0-2
+rr-1-2
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Listening
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
+Received frame of size 42 on interface 0
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2054
+Received frame of size 46 on interface 3
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2054
+Received frame of size 42 on interface 0
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: de:ad:be:ef:00:04
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2048
+Received frame of size 46 on interface 3
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2048
+Received frame of size 42 on interface 1
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2054
+Received frame of size 46 on interface 3
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: de:ad:be:ef:00:00
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2054
+Received frame of size 42 on interface 1
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: de:ad:be:ef:00:05
+Source MAC: de:ad:be:ef:00:00
+EtherType: 2048
+Received frame of size 46 on interface 3
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Port r-0 is in state Listening
+Port r-1 is in state Listening
+Port rr-0-2 is in state Blocking
+Port rr-1-2 is in state Listening
+Destination MAC: de:ad:be:ef:00:09
+Source MAC: de:ad:be:ef:00:05
+EtherType: 2048
+Received frame of size 42 on interface 1
